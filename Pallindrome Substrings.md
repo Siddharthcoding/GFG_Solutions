@@ -2,7 +2,7 @@
 
 ## Time Complexity : O(N^3)
 
-```
+```cpp []
 class Solution {
   public:
     bool isPallindrome(string str) {
@@ -45,7 +45,7 @@ class Solution {
 
 ## Time Complexity : O(N^2)
 
-```
+```cpp []
 class Solution {
   public:
     int expand(const string &s, int left, int right) {
