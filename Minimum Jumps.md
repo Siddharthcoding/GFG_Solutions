@@ -1,6 +1,6 @@
-# Using Binary Search
+# Using Greedy
 
-## Time Complexity : O(N + maxRank*log(maxRank))
+## Time Complexity : O(N)
 
 ``` cpp []
 class Solution {
