@@ -3,11 +3,6 @@
 ## Time Complexity : O(N)
 
 ``` cpp []
-# Using map to count total occurence and then the minimum no. of rotations required
-
-## Time Complexity : O(N)
-
-``` cpp []
 class Solution {
 public:
     int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
